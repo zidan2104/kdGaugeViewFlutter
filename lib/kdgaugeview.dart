@@ -39,13 +39,13 @@ class KdGaugeView extends StatefulWidget {
       this.speed = 0,
       this.speedTextStyle = const TextStyle(
         color: Colors.black,
-        fontSize: 60,
+        fontSize: 20,
         fontWeight: FontWeight.bold,
       ),
       this.unitOfMeasurement = 'Km/Hr',
       this.unitOfMeasurementTextStyle = const TextStyle(
         color: Colors.black,
-        fontSize: 30,
+        fontSize: 10,
         fontWeight: FontWeight.w600,
       ),
       required this.minSpeed,
