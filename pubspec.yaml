@@ -1,4 +1,5 @@
-name: kdgaugeview
+name: gauge21
+
 description: KDGaugeView is a simple and customizable gauge control for Flutter
 version: 1.0.5
 homepage: https://github.com/Sorbh/kdGaugeViewFlutter
